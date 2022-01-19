@@ -1,0 +1,6 @@
+framework module Pods_Enix {
+  umbrella header "Pods-Enix-umbrella.h"
+
+  export *
+  module * { export * }
+}

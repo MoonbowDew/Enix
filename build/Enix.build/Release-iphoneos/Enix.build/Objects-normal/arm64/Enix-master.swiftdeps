@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "5720cf0df6baaa8489d58f055d706a95"
+build_time: [1633004413, 96993000]
+inputs:
+  "/Users/admin/Documents/repos/Enix/Enix/ViewController.swift": [9223372036, 854775807]
+  "/Users/admin/Documents/repos/Enix/Enix/IncomeViewController.swift": [9223372036, 854775807]
+  "/Users/admin/Documents/repos/Enix/Enix/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/admin/Documents/repos/Enix/Enix/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/admin/Documents/repos/Enix/Enix/MainViewController.swift": [9223372036, 854775807]
+  "/Users/admin/Documents/repos/Enix/Enix/ExpenseViewController.swift": [9223372036, 854775807]
